@@ -1,0 +1,14 @@
+d:\leetcode Practice\bin\Debug\net8.0\leetcode Practice.exe
+D:\leetcode Practice\bin\Debug\net8.0\leetcode Practice.deps.json
+D:\leetcode Practice\bin\Debug\net8.0\leetcode Practice.runtimeconfig.json
+d:\leetcode Practice\bin\Debug\net8.0\leetcode Practice.dll
+d:\leetcode Practice\bin\Debug\net8.0\leetcode Practice.pdb
+d:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.GeneratedMSBuildEditorConfig.editorconfig
+d:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.AssemblyInfoInputs.cache
+d:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.AssemblyInfo.cs
+d:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.csproj.CoreCompileInputs.cache
+d:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.dll
+d:\leetcode Practice\obj\Debug\net8.0\refint\leetcode Practice.dll
+d:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.pdb
+D:\leetcode Practice\obj\Debug\net8.0\leetcode Practice.genruntimeconfig.cache
+D:\leetcode Practice\obj\Debug\net8.0\ref\leetcode Practice.dll
