@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\leetcode Practice\\leetcode Practice.csproj": {}
+    "D:\\leetcode Practice\\Leetcode-Coding-Practice\\leetcode Practice.csproj": {}
   },
   "projects": {
-    "D:\\leetcode Practice\\leetcode Practice.csproj": {
+    "D:\\leetcode Practice\\Leetcode-Coding-Practice\\leetcode Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\leetcode Practice\\leetcode Practice.csproj",
+        "projectUniqueName": "D:\\leetcode Practice\\Leetcode-Coding-Practice\\leetcode Practice.csproj",
         "projectName": "leetcode Practice",
-        "projectPath": "D:\\leetcode Practice\\leetcode Practice.csproj",
+        "projectPath": "D:\\leetcode Practice\\Leetcode-Coding-Practice\\leetcode Practice.csproj",
         "packagesPath": "C:\\Users\\Deepak\\.nuget\\packages\\",
-        "outputPath": "D:\\leetcode Practice\\obj\\",
+        "outputPath": "D:\\leetcode Practice\\Leetcode-Coding-Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Deepak\\AppData\\Roaming\\NuGet\\NuGet.Config"
